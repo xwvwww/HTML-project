@@ -1,2 +1,0 @@
-# resonance
-html stepik project
